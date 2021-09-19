@@ -1,4 +1,4 @@
-Descripción del proyeto
+﻿Descripción del proyeto
 Se realizará la construcción de una aplicación web que controle las ventas digitales de una 
 tienda online; pasando por todas sus etapas, analisis, diseño y desarrollo logrando así una 
 aplicación completa y funcional.
@@ -19,7 +19,8 @@ ademas de ello me encuentro realizando el curso de mision tic y otro curso de pr
 el SENA.
 
 
--
+-Lina Morales. Tengo 27 años, soy de Cali pero Vivo en Timbiqui-Cauca, soy Auxiliar contable y tecnico en sistemas, 
+pero actualmente me dedico a las ventas.
 
 -
 
